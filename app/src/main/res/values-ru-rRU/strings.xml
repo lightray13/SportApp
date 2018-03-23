@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Спорт</string>
+
+    <string name="navigation_drawer_open">Открыть навигационное меню</string>
+    <string name="navigation_drawer_close">Закрыть навигационное меню</string>
+    <string name="football">Футбол</string>
+    <string name="hockey">Хокей</string>
+    <string name="tennis">Теннис</string>
+    <string name="volleyball">Волейбол</string>
+    <string name="basketball">Баскетбол</string>
+    <string name="cybersport">Киберспорт</string>
+    <string name="prediction">Прогнозирование</string>
+
+    <string name="action_settings">Настройки</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Пустой фрагмент</string>
+</resources>
